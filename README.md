@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+### 从铜杯想到新冠病毒
 
-You can use the [editor on GitHub](https://github.com/green-trees/green-trees.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+前几天买了一只纯铜的大杯子，表面有手工的凹痕，阳光照上去，在桌面反射出扇形的点点光斑，甚是迷人。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+科学实验论断：水在纯铜容器中放置一夜，其中99%以上的细菌病毒等微生物会被铜离子杀灭。在历史上很多民间的习俗和经验中，也是将水盛放在铜质容器中进行净化。
 
-### Markdown
+读过了**The Fourth Phase of Water** by _Dr. Gerald Pollack_ (中文版《水的第四相》)，我认为，并不是铜离子杀灭了微生物，铜离子能否游离到水中还需要进一步的实验验证。真正的原因，是因为，纯铜有极好的导电性、导热性，它的电子超级活跃，铜的电子电荷的高速运动，带动了与其相邻的水的游离质子电子的高速运动，于是，水中迅速形成大区域的EZ(Exclusion Zone)结构，这种致密整洁的EZ水结构，不能给微生物提供生存繁殖的空间，所以微生物们自然被排斥了。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+深以为，杰拉德·H·波拉克教授（Dr. Gerald Pollack），很值得因为此书获得诺贝尔奖，虽然书中的诸多科学成果，也凝聚了一个世纪以来诸多科学工作者艰苦枯燥的劳动和成果。
 
-```markdown
-Syntax highlighted code block
+动物细胞，大部分是水组成。健康的细胞，其中的水，就是上述的整洁的EZ结构 。如果人体的肺泡、粘膜细胞等，其中的水组织，都是致密整洁的EZ结构，新型冠状病毒是很难冲破细胞壁，进入细胞进行繁殖的。进入不到细胞内部，病毒这种寄生体，自我就无法繁殖生存。
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/green-trees/green-trees.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+草药汤液，能改善人体的代谢机能，让人体细胞组织变得舒展、整洁、致密、健康，从而病毒就难以在人的身体上安家。
